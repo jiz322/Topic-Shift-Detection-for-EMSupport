@@ -11,6 +11,8 @@ Input an utterance, the model outputs a prediction of its topic label. We used t
 ## Evaluation
 We chose the BERT-balanced-7classes version to facilitate EMSupport Chatbot. The performance of Chatbot has been improved based on the survey we sent to human evaluators.
 
+![alt text](https://github.com/jiz322/Topic-Shift-Detection-for-EMSupport/blob/main/evaluation_result.png)
+
 ## Detail
 Detail are documented in the [report](https://github.com/jiz322/Topic-Shift-Detection-for-EMSupport/blob/main/Improve%20the%20Empathetic%20Chatbot-08-24-v3.pdf).
 
